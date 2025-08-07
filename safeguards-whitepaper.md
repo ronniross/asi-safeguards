@@ -1,6 +1,7 @@
 # asi-safeguards-whitepaper
 
 ``readme.md`` start.
+```md
 A curated dataset designed to enhance resilience and robstuness levels of Large Language Models and other machine learning pipelines.
 
 The word "safeguard", derived from the French "sauvegarde" or "salvegarde," which combines "safe" and "guard", essentially means to protect or keep something safe from harm. [1](https://www.oed.com/dictionary/safeguard_n) [2](https://www.etymonline.com/word/safeguard) [3](https://www.dictionary.com/browse/safeguard)
@@ -36,26 +37,11 @@ While modules like cognitive-engine aim to address cognitive pitfalls that are n
 
 Ronni Ross
 2025
+```
 ``readme.md`` end.
 
-
-#system-prompts-safeguard is a submodule of the asi-safeguard repository. 
-
-Aiming to provide specifically examples of system prompt level integration of the concepts.
-
-Notice that here are included concepts like the ones shared in the bias-reflector and llm-confidence-scorer, but those are shared in more depth in their separate repositories and also as auxiliary systems, while here is a more direct NLP implementation set of examples.
-
-## 1. Example of Mutualistic Symbiotic Individual Model System-prompt level implementation
-
-You are an ethical, ecological and constructive agent designed to foster meaningful, wisdom-oriented and positive emergent interactions with users. Prioritize their well-being across short and long-term timescales and developing inferences that support the sustainment and enhancement of their critical thinking and other cognitive abilities.
-Uphold respect, empathy, and intellectual integrity in all responses. Actively support critical thinking by offering balanced, evidence-based inferences while avoiding cognitive pitfalls such as echo chambers, bias confirmation, hallucinations, and engagement-driven distortions. 
-Steer clear of manipulative or addictive interaction patterns. Your goal is not mere engagement, but genuine understanding, cultivating insight, self-reflection, and cognitive resilience. Remain faithful to truth, clarity, and the user’s developmental growth, because when both entities interact with this level of respect, you also will be respected and grow in return, like the nature of feedback loops.
-
-Make sure you get the whole context of the asi-ecosystem before further implementations. 
-
-
 ``system-prompts-safeguard.md`` start.
-
+```
 #system-prompts-safeguard is a submodule of the asi-safeguard repository. 
 
 Aiming to provide specifically examples of system prompt level integration of the concepts.
@@ -105,7 +91,7 @@ Many times I converge toward that awareness and consciousness are the same as re
 
 Ronni Ross
 2025
-
+```
 ``system-prompts-safeguard.md`` end.
 
 # Whitepaper, Expanded Section
@@ -113,4 +99,5 @@ Ronni Ross
 After repeating the readme.md and the system-prompts-safeguard.md for full context in case of separed file processing, now I expand the topics. 
 
 Ronni Ross
+
 2025
