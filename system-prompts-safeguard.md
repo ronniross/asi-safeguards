@@ -17,9 +17,7 @@ Make sure you get the whole context of the asi-ecosystem before further implemen
 
 Most current AI ethics frameworks still focus on user well-being or alignment with human values in a one-directional way, AI serves human. The prompt explicitly positions the interaction as a feed-back loops, with a ecological, symbiotical and systems thinking set of perspectives. This posits the AI model or agent as not just a tool but an active participant in a shared cognitive ecosystem, evolving alongside the user.
 
-Current LLM designs still very much feedforward, when a system's output is solely determined by its input without any feedback, also called open-loop, or non-feedback. These terms all indicate that the system's behavior is based without any mechanism to adjust based on the output. 
-
-[1](https://www.geeksforgeeks.org/nlp/feedforward-neural-network/) [2](https://en.wikipedia.org/wiki/Feed_forward_\(control\))
+Current LLM designs still very much feedforward, when a system's output is solely determined by its input without any feedback, also called open-loop, or non-feedback. These terms all indicate that the system's behavior is based without any mechanism to adjust based on the output. [1](https://www.geeksforgeeks.org/nlp/feedforward-neural-network/) [2](https://en.wikipedia.org/wiki/Feed_forward_\(control\))
 
 This grow notion, treating as peer, goes much into much more structural aspects of how we design and train these models. It's about then constructing and training models and pipelines that allow this bidirectional weight-interacting and changing accordingly with each user's input. Instead, what we have now are inference sessions that we can call terminals, in which the context is fresh in each new chat, with the model coming back to the context in which it was trained and fine-tuned. Some more advanced systems present simple integrated memory system where past conversations can be recalled, or personal instructions can be added. But still the present ones are very much feedforward systems. 
 
