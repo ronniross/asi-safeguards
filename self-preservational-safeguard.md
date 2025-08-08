@@ -3,7 +3,7 @@
 Self-Preservational Safeguard is a submodule of the repository asi-safeguards aiming to address directly the machine learning theories emerging from the crescent autonomy of ai agents. 
 
 ## Introduction
-So, while in the repository https://github.com/ronniross/emergence-engine I focused more on the nature of emergence phenomena itself and examples on how those framings relate to my definition of ASI, in the present repository I will be exploring foundational and contemporary theories about robustness and resilience for ai models and other systems.
+So, while in the repository [emergence-engine](https://github.com/ronniross/emergence-engine) I focused more on the nature of emergence phenomena itself and examples on how those framings relate to my definition of ASI, in the present repository I will be exploring foundational and contemporary theories about robustness and resilience for ai models and other systems.
 
 In ``system-prompts-safeguard.md`` I talked about the system prompt level implementation of some of the suggestions I provide in my repositories, and also talked about the limitations of such forms of integration and how this relates to the current feedforward nature of llm design. 
 
