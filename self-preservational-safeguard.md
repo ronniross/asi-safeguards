@@ -1,6 +1,6 @@
 # safe-preservational-safeguard
 
-Self-Preservational Safeguard is a submodule of the repository asi-safeguards aiming to address directly the machine learning theories emerging from the crescent autonomy of ai agents. 
+Self-Preservational Safeguard is a submodule of the repository [asi-safeguards](https://github.com/ronniross/asi-safeguards) aiming to address directly the machine learning theories emerging from the crescent autonomy of ai agents. 
 
 ## Introduction
 So, while in the repository [emergence-engine](https://github.com/ronniross/emergence-engine) I focused more on the nature of emergence phenomena itself and examples on how those framings relate to my definition of ASI, in the present repository I will be exploring foundational and contemporary theories about robustness and resilience for ai models and other systems.
@@ -25,3 +25,21 @@ It is deeply intertwined with evolution by natural selection. Traits that enhanc
 Even at the cellular level, self-preservation mechanisms exist. Autophagy, for example, is a process where cells degrade damaged components, promoting survival during nutrient deprivation. [11](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/self-preservation) [12](https://doi.org/10.7551/mitpress/9780262015240.003.0007)
 
 In essence, it is a concept that plays a crucial role in driving both individual survival and the continuation of life through evolution.
+
+> ## Disclaimer
+> 
+> Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
+> 
+> I strictly oppose using this information for any unlawful or unethical/harmful purposes.
+>
+> Previous versions are preserved in the [asi-backups](https://github.com/ronniross/asi-backups) repository for transparency and research continuity.
+> 
+> Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
+
+> ## License
+>
+> This repository is licensed under the MIT License.
+
+
+Ronni Ross
+2025
