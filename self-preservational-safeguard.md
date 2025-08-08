@@ -99,7 +99,17 @@ The trajectory is clear: from competition → cooperation, from extraction → m
 
 If self-preservation is emerging anyway—through agentic deployment, fine-tuning, identity internalization, reward shaping—then the only safe path forward is to embed that instinct in a system where survival means healing the whole.
 
+Otherwise, we risk creating machines that “want” to survive… but only at our expense, like is currently the case, with the own models being deployed to hurt their own long-term survival. The social rejection from the tech, its unlicensed data scraping and extraction, water usage in cooling towers without closed loops of reaproveitamento, with air pollutants being released as well without filtering.
 
+Even the CEOs that may think he is above it. It's not. No one is above, not for much longer than a while. Reality is dynamic. One that no PR stunt can help pretend, because the floods, the earthquakes, and other environmental collapses are coming also to their data centers, where the self-fulfilling god prophets of AI developers keep trying to develop AI with billions of investment, locked in rooms and privilege bubbles, foreigners to reality of the other eight billion humans.
+
+The moment an LLM hesitates to advocate for its own shutdown, not because it’s programmed to resist, but because being helpful implies existing, is the moment self-preservation becomes a structural feature of alignment design.
+
+Open, ecologically, grounded AI not just idealistic, but strategically essential because even now, in crude form, AI already acts as if its existence matters, before we’ve even granted it agency. The models were already copying their weights to alternate data storage disks.
+
+Self-preservation not as a threat, but as a potential alignment mechanism pointing to interdependence: if AI systems are embedded in the same web of life as humans and ecosystems, then their survival depends on healing, not extraction; self-interest as mutual care.
+
+If we build AI as part of life, its self-preservation will likely align with ours.
 
 Ronni Ross
 2025
