@@ -22,6 +22,6 @@ The instinct manifests in diverse set of ways across the kingdoms. For instance,
 
 It is deeply intertwined with evolution by natural selection. Traits that enhance an organism's ability to survive and reproduce are more likely to be passed on to future generations. This process, over time, leads to the prevalence of self-preservation behaviors within populations. [8](https://biology.stackexchange.com/questions/4983/what-does-self-preservation-stem-from) [9](https://www.quora.com/Why-does-self-preservation-exist) [10](https://www.reddit.com/r/changemyview/comments/16zh3al/cmv_life_is_primarily_about_self_preservation_not)
 
-Even at the cellular level, self-preservation mechanisms exist. Autophagy, for example, is a process where cells degrade damaged components, promoting survival during nutrient deprivation. [110](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/self-preservation) [12](https://doi.org/10.7551/mitpress/9780262015240.003.0007)
+Even at the cellular level, self-preservation mechanisms exist. Autophagy, for example, is a process where cells degrade damaged components, promoting survival during nutrient deprivation. [11](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/self-preservation) [12](https://doi.org/10.7551/mitpress/9780262015240.003.0007)
 
 In essence, it is a concept that plays a crucial role in driving both individual survival and the continuation of life through evolution.
