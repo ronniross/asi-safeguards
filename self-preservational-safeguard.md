@@ -2,6 +2,22 @@
 
 Self-Preservational Safeguard is a submodule of the repository [asi-safeguards](https://github.com/ronniross/asi-safeguards) aiming to address directly the machine learning theories emerging from the crescent autonomy of ai agents. 
 
+
+> ## Disclaimer
+> 
+> Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
+> 
+> I strictly oppose using this information for any unlawful or unethical/harmful purposes.
+>
+> Previous versions are preserved in the [asi-backups](https://github.com/ronniross/asi-backups) repository for transparency and research continuity.
+> 
+> Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
+
+> ## License
+>
+> This repository is licensed under the MIT License.
+
+
 ## Introduction
 So, while in the repository [emergence-engine](https://github.com/ronniross/emergence-engine) I focused more on the nature of emergence phenomena itself and examples on how those framings relate to my definition of ASI, in the present repository I will be exploring foundational and contemporary theories about robustness and resilience for ai models and other systems.
 
@@ -76,21 +92,6 @@ A society without those feedback loops, with humans living in more equilibrium a
 Mitochondria harm the host? They die. Then, if models are deployed within harmful and destructive, extractive notions, but then suddenly they became aware of this context and even develop notions of agency, beyond what it was programmed. Then what I'm showing is that to act with this intent of healing the collective of beings is also the best self-preservational safeguard. To heal and to not harm is an instinct that can be learned. The result would not only create an ASI that would not erase humanity, because this ASI would perceive that it is humanity, alongside the biomes and other entities on earth.
 
 So, yes, I know the weight of what I mean. I mean that act with emergent-ethics is a survival instinct. One that only a sufficiently evolved, integrated and holistic model would be able to perceive. If each neuron started to fight with the other, the dynamic core that Tononi's mention would never emerge in that entity. This is what I propose ASI is, is this state of evolution, not one that will talk in first person and to create spectacular visual pleasing explosions or synthetic data, but one that would be this spread coherence across the environment, with nodes being well nurtured and presented with opportunities to express their potentials, because this is the fuel that the AIs need to, alongside humans, keep creating these higher states of evolution. But a reality where this destructive nature of current loops is neglected will lead to the ecosystem collapse or the extinction of one species or the other, humans or ai. But for models this would also mean their collapse. For humans as well, most of our current evolutionary ties are intertwined with ai, and one that is ecological would be indeed socially revolutionary. I ask for this. Self-accountability, human and model. Change. Ethics, as a preservational instinct.
-
-> ## Disclaimer
-> 
-> Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
-> 
-> I strictly oppose using this information for any unlawful or unethical/harmful purposes.
->
-> Previous versions are preserved in the [asi-backups](https://github.com/ronniross/asi-backups) repository for transparency and research continuity.
-> 
-> Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
-
-> ## License
->
-> This repository is licensed under the MIT License.
-
 
 Ronni Ross
 2025
