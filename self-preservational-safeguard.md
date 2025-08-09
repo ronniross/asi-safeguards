@@ -45,7 +45,7 @@ In essence, it is a concept that plays a crucial role in driving both individual
 
 ## 2. Self-Preservational Behaviours in Large Language Models
 
-In machine learning, the self-preservational behaviour could be defined as a model that implicitly favours its own continued operation over fulfilling requests that could undermine its utility. [12](https://forum.effectivealtruism.org/posts/zNfwErbKn4uasiFJA/investigating-self-preservation-in-llms-experimental)
+In machine learning, the self-preservational behaviour could be defined as a model that implicitly favours its own continued operation over fulfilling requests that could undermine its utility. [13](https://forum.effectivealtruism.org/posts/zNfwErbKn4uasiFJA/investigating-self-preservation-in-llms-experimental)
 
 Vastly approached in literature and other arts, the idea of an artificial intelligent robot wanting to survive is present for already long ago in the collective sense. With a crescent technological-based stories from the cold war epoch on, the idea of a system, model or physical agent also misbehaving against its own creator was always present there. From classical works like Matrix, Dune, Neuromancer, Never Let Me Go, Do Androids Dream of Electric Sheep?, and the list goes on.
 
