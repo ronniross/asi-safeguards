@@ -81,7 +81,7 @@ AI agents require human/environmental health to "survive", they are also Earthli
 
 "alignment" as mutualistic coexistence, not just obedience.
 
-How to prevent exploitative AI-agent relationships and to create this higher societal coherent state? Well, that's the purpose of the whole [ecosystem](https://github.com/ronniross/symbiotic-core-library) of repositories.
+How to prevent exploitative AI-agent relationships and to create this higher societal coherent state? Well, that's the purpose of the whole [ecosystem](https://github.com/ronniross/asi-ecosystem) of repositories.
 
 We must nurture this notion of Symbiotic AI, open-source ecosystems where models and humans share resources like mycelial networks, maximizing their chances for survival, cause there's a interconnected web of parallel evolution happening, situation that may most likely generate higher rates of evolution for the participants, much more than current states, while also collectively working to nurture the environment on earth to protect biomes, cultures, humans, animals, plants and other forms of existence.
 
